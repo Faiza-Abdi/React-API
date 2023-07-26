@@ -1,0 +1,10 @@
+.item{
+    background-color: rgb(53, 126, 190);
+    padding: 20px;
+    width: 480px;
+}
+.item-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
